@@ -768,7 +768,7 @@ if select=="HOME":
     col3,col4= st.columns(2)
     
     with col3:
-        st.image(Image.open(r"E:\GUVI\Capstone Project\PhonePe\Images\phonepe1.png"), width=450)
+        st.image(Image.open(r"E:\Albert\GUVI Projects\Capstone Projects\Cap-Stone-Projects\PhonePe\Images\phonepe1.png"), width=450)
 
     with col4:
         st.write("****Easy Transactions****")
@@ -798,7 +798,7 @@ if select=="HOME":
         st.write("****Instantly & Free****")
 
     with col6:
-        st.image(Image.open(r"E:\GUVI\Capstone Project\PhonePe\Images\phonepe4.png"), width=450)
+        st.image(Image.open(r"E:\Albert\GUVI Projects\Capstone Projects\Cap-Stone-Projects\PhonePe\Images\phonepe2.png"), width=450)
         # st.video("https://youtu.be/QG6iEwlnPoE")
 
 
